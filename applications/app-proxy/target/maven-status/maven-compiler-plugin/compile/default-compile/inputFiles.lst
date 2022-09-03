@@ -1,0 +1,9 @@
+C:\Users\nicov\Desktop\cardgame-demo\Backend\applications\app-proxy\src\main\java\org\example\cardgame\websocket\AppSocket.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\applications\app-proxy\src\main\java\org\example\cardgame\websocket\bus\RabbitMQEventConsumer.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\applications\app-proxy\src\main\java\org\example\cardgame\websocket\generic\StoredEvent.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\applications\app-proxy\src\main\java\org\example\cardgame\websocket\SocketController.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\applications\app-proxy\src\main\java\org\example\cardgame\websocket\generic\DeserializeException.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\applications\app-proxy\src\main\java\org\example\cardgame\websocket\WebSocketConfig.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\applications\app-proxy\src\main\java\org\example\cardgame\websocket\ApplicationConfig.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\applications\app-proxy\src\main\java\org\example\cardgame\websocket\bus\Notification.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\applications\app-proxy\src\main\java\org\example\cardgame\websocket\GsonEventSerializer.java

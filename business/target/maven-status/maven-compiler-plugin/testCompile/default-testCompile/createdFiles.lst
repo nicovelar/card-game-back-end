@@ -1,0 +1,8 @@
+org\example\cardgame\usecase\usecase\IniciarRondaUseCaseTest.class
+org\example\cardgame\usecase\usecase\CrearJuegoUseCaseTest.class
+org\example\cardgame\usecase\usecase\PonerCartaEnTableroUseCaseTest.class
+org\example\cardgame\usecase\usecase\DeterminarGanadorUseCaseTest.class
+org\example\cardgame\usecase\usecase\CrearRondaUseCaseTest.class
+org\example\cardgame\usecase\usecase\IniciarJuegoUseCaseTest.class
+org\example\cardgame\usecase\usecase\FinalizarRondaUseCaseTest.class
+org\example\cardgame\usecase\usecase\IniciarCuentaRegresivaUseCaseTest.class

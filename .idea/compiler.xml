@@ -8,8 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="app-service" />
         <module name="business" />
-        <module name="domain" />
         <module name="applications" />
+        <module name="domain" />
         <module name="app-proxy" />
       </profile>
     </annotationProcessing>

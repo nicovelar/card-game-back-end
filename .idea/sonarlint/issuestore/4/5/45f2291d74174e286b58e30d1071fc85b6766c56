@@ -1,9 +1,0 @@
-
-P
-java:S1611"5Remove the parentheses around the "command" parameter(ç§·Áøÿÿÿÿ
-V	java:S125$"<This block of commented-out lines of code should be removed.(ß–·Šÿÿÿÿÿ
-V	java:S125*"<This block of commented-out lines of code should be removed.(ÙüÃ°úÿÿÿÿ
-f
-java:S1128"KRemove this unused import 'org.example.cardgame.domain.events.RondaCreada'.(‘ş©Şøÿÿÿÿ
-J
-java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ

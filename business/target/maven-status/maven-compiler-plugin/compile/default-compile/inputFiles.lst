@@ -1,0 +1,15 @@
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\EliminarJuegoUseCase.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\gateway\model\CartaMaestra.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\UseCaseForCommand.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\DeterminarGanadorUseCase.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\IniciarJuegoUseCase.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\CrearJuegoUseCase.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\PonerCartaEnTableroUseCase.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\gateway\ListaDeCartaService.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\gateway\JuegoDomainEventRepository.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\QuitarCartaEnTableroUseCase.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\FinalizarRondaUseCase.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\IniciarCuentaRegresivaUseCase.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\IniciarRondaUseCase.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\UseCaseForEvent.java
+C:\Users\nicov\Desktop\cardgame-demo\Backend\business\src\main\java\org\example\cardgame\usecase\usecase\CrearRondaUseCase.java

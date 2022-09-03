@@ -1,0 +1,15 @@
+org\example\cardgame\usecase\usecase\DeterminarGanadorUseCase.class
+org\example\cardgame\usecase\usecase\CrearJuegoUseCase.class
+org\example\cardgame\usecase\usecase\IniciarCuentaRegresivaUseCase.class
+org\example\cardgame\usecase\usecase\QuitarCartaEnTableroUseCase.class
+org\example\cardgame\usecase\gateway\ListaDeCartaService.class
+org\example\cardgame\usecase\usecase\CrearRondaUseCase.class
+org\example\cardgame\usecase\gateway\JuegoDomainEventRepository.class
+org\example\cardgame\usecase\usecase\IniciarRondaUseCase.class
+org\example\cardgame\usecase\usecase\UseCaseForCommand.class
+org\example\cardgame\usecase\usecase\EliminarJuegoUseCase.class
+org\example\cardgame\usecase\usecase\FinalizarRondaUseCase.class
+org\example\cardgame\usecase\usecase\PonerCartaEnTableroUseCase.class
+org\example\cardgame\usecase\gateway\model\CartaMaestra.class
+org\example\cardgame\usecase\usecase\IniciarJuegoUseCase.class
+org\example\cardgame\usecase\usecase\UseCaseForEvent.class
