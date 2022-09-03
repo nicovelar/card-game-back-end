@@ -1,0 +1,19 @@
+
+a
+java:S1192."FDefine a constant instead of duplicating this literal "fecha" 3 times.(é»Öþÿÿÿÿ
+c
+java:S1192,"HDefine a constant instead of duplicating this literal "juegoId" 3 times.(¬¼¶ºÿÿÿÿÿ
+b
+java:S1192;"GDefine a constant instead of duplicating this literal "cartas" 3 times.(ÐÏÂÿûÿÿÿÿ
+>
+java:S16040"(Make this anonymous inner class a lambda(›Ú¾Ÿ
+M
+java:S1135%"2Complete the task associated to this TODO comment.(ªóº¼ûÿÿÿÿ
+N
+java:S1611]"3Remove the parentheses around the "model" parameter(¡´Ç ûÿÿÿÿ
+g
+java:S1128"LRemove this unused import 'org.springframework.scheduling.annotation.Async'.(Ýë€Ûúÿÿÿÿ
+`
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Þ÷Ñ¸ÿÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ

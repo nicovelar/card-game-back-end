@@ -1,0 +1,15 @@
+
+b
+java:S1192'"GDefine a constant instead of duplicating this literal "fecha" 10 times.(é»Öşÿÿÿÿ
+b
+java:S1192k"GDefine a constant instead of duplicating this literal "tiempo" 3 times.(¸¸œ¼ÿÿÿÿÿ
+n
+java:S1192F"SDefine a constant instead of duplicating this literal "tablero.habilitado" 3 times.(”ƒ·Æüÿÿÿÿ
+Q	java:S125¡"<This block of commented-out lines of code should be removed.(æ£Éw
+Q	java:S125®"<This block of commented-out lines of code should be removed.(æ£Éw
+`
+java:S2175Å"IA "Map<String, Jugador>" cannot contain a "JugadorId" in a "String" type.(¸ã‚ó
+z
+java:S1128"XRemove this unused import 'org.example.cardgame.application.handle.model.MazoViewModel'.(Æ‘š³şÿÿÿÿ8ˆùª¤°0
+[
+java:S1128	">Remove this unused import 'org.example.cardgame.domain.Juego'.(Ôïí”8ˆùª¤°0
