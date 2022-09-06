@@ -27,22 +27,5 @@ public class ApplicationConfig {
         return admin;
     }
 
-    @Bean
-    public CorsWebFilter corsWebFilter() {
-        CorsConfiguration corsConfig = new CorsConfiguration();
-        corsConfig.setAllowedOrigins(Arrays.asList("*"));
-        corsConfig.setMaxAge(8000L);
-        corsConfig.addAllowedHeader("*");
-        corsConfig.addAllowedMethod("*");
-
-        UrlBasedCorsConfigurationSource source =
-                new UrlBasedCorsConfigurationSource();
-        source.registerCorsConfiguration("/**", corsConfig);
-
-        return new CorsWebFilter(source);
-    }
-
-
-
 }
 
