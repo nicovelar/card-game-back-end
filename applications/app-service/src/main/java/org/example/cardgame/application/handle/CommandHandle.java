@@ -14,7 +14,6 @@ import reactor.core.publisher.Mono;
 import static org.springframework.web.reactive.function.server.RequestPredicates.*;
 import static org.springframework.web.reactive.function.server.RouterFunctions.route;
 @Configuration
-@CrossOrigin(origins = "*")
 public class CommandHandle {
     private final IntegrationHandle integrationHandle;
     private final ErrorHandler errorHandler;
